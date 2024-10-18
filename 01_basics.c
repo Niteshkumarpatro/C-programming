@@ -3,6 +3,5 @@
  int  main()
 {
    printf("welcome  to c programming");
-   getch();
+   
 }
-
