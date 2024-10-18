@@ -6,5 +6,5 @@
     float area;
     radius =5;
     area=3.14*radius*radius;
-    printf("%f",area);
+    printf("The area of circle is %f",area);
 }
