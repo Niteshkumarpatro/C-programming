@@ -6,5 +6,5 @@
      a=2;
      b=3;
      c=a+b;
-    printf("The addition of two number is %d",c);
+    printf("The Addition of two number is %d",c);
  }
