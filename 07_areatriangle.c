@@ -7,5 +7,5 @@
   base =2;
   height =6;
   area=0.5*(base*height);
-  printf("The area of triangle is %f",area);
+  printf("The Area of triangle is %f",area);
    }
